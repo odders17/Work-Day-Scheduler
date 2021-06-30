@@ -5,5 +5,8 @@ This application is designed to help keep a daily schedule of any work day tasks
 
 the live page link
 
+https://odders17.github.io/Work-Day-Scheduler/
 
 the git hub repositary 
+
+https://github.com/odders17/Work-Day-Scheduler
